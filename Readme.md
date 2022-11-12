@@ -77,7 +77,7 @@ Don't forget to resolve those issue by adding jar files.
 
 The zip file contains the whole project that can be easily implemented.
 
-# <a href="" ><strong>Project link</strong> </a>
+# <a href="https://github.com/ShuvoSahaRoy/java-project-library-management" ><strong>Project link</strong> </a>
 
 ---
 
