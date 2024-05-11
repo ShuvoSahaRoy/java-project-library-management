@@ -2,7 +2,7 @@
 
 ![image info](project_images/ds.svg)
 <!-- ![](https://img.shields.io/github/repo-size/itsvinayak/weather-app.svg?label=Repo%20size&style=flat-square)&nbsp; -->
-![Made with JAVA](made-with-java.svg)
+![image info](project_images/made-with-java.svg)
 
 I did this project for own learning purpose.
 
